@@ -1,0 +1,15 @@
+/* Common CSS Start */
+.bg-btn{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+/* // Common CSS End */
+
+/* Banner CSS Start */
+.banner{
+    margin-top: 100px;
+}
+
+.bg-banner{
+    background-color:#fceae8;
+}
+/* // Banner CSS End */
